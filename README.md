@@ -1,4 +1,4 @@
-# Ansible_with_Prometheus-Grafana
+# Ansible Playbook
 
 ![ansible-playbookFhr drawio](https://linuxhandbook.com/content/images/2020/10/ansible-playbook-yaml.png)
 
