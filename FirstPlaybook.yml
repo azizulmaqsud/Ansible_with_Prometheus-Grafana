@@ -1,0 +1,12 @@
+---
+ - name: first playbook it is
+   hosts: all
+   tasks:
+     - name: install java
+       yum:
+        name: java
+        state: latest
+     - name: install jenkins
+       yum:
+         name: jenkins
+         state: latest
